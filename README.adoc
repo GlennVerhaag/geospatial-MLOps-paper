@@ -1,0 +1,14 @@
+= MLOps for Geospatial Foundation Models: A Systematic Literature Review
+
+_Authors: Glenn Verhaag and Christian Decker and Uwe Breitenbücher_ 
+
+This repository holds all artifacts and scripts created as part of our research.
+
+Included in this repository are:
+
+* Systematic Literature Review (SLR) artifacts
+** link:literature-review/initial-search[Initial search artifacts]
+** link:literature-review/snowballing[Snowballing artifacts]
+** link:literature-review/results[Analysis results]
+* Scripts
+** link:scripts[Additional scripts]
