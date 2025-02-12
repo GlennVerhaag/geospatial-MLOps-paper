@@ -1,6 +1,9 @@
-= MLOps for Geospatial Foundation Models: A Systematic Literature Review
+= Geospatial MLOps: A Systematic Literature Review and Reference Architecture
 
-_Authors: Glenn Verhaag and Christian Decker and Uwe Breitenbücher_ 
+_Authors: Glenn Verhaag¹ and Christian Decker¹ and Uwe Breitenbücher¹ and Moritz Stäbler²_ 
+{nbsp} +
+_¹ Reutlingen University, ² IBM_
+
 
 This repository holds all artifacts and scripts created as part of our research.
 
